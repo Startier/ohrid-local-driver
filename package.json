@@ -1,7 +1,7 @@
 {
   "name": "@startier/ohrid-local-driver",
-  "version": "1.0.1",
-  "description": "A driver for @startier/ohrid that doesn't support remote calls",
+  "version": "1.1.0",
+  "description": "A driver for @startier/ohrid that executes methods locally",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "keywords": [],
@@ -22,6 +22,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@startier/ohrid": "^1.0.1"
+    "@startier/ohrid": "^1.0.2"
   }
 }
